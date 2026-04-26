@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "about": "About"
+  },
+  "hero": {
+    "title": "Discover Your Beauty",
+    "subtitle": "Premium cosmetics and accessories for the modern woman",
+    "cta": "Shop Now"
+  },
+  "catalog": {
+    "title": "Our Collection",
+    "filter": "Filter",
+    "sort": "Sort by",
+    "price": "Price",
+    "brand": "Brand",
+    "category": "Category",
+    "all": "All",
+    "sortOptions": {
+      "priceAsc": "Price: Low to High",
+      "priceDesc": "Price: High to Low",
+      "nameAsc": "Name: A-Z",
+      "nameDesc": "Name: Z-A"
+    }
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "addToWishlist": "Add to Wishlist",
+    "removeFromWishlist": "Remove from Wishlist",
+    "description": "Description",
+    "brand": "Brand",
+    "category": "Category",
+    "price": "Price",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "continue": "Continue Shopping",
+    "total": "Total",
+    "checkout": "Checkout",
+    "remove": "Remove",
+    "quantity": "Quantity"
+  },
+  "wishlist": {
+    "title": "My Wishlist",
+    "empty": "Your wishlist is empty",
+    "addSome": "Add some products you love!"
+  },
+  "footer": {
+    "about": "About Us",
+    "contact": "Contact",
+    "shipping": "Shipping",
+    "returns": "Returns",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "tryAgain": "Try Again",
+    "search": "Search products...",
+    "noResults": "No products found",
+    "currency": "$"
+  }
+}

@@ -1,0 +1,16 @@
+
+> vue-shop@0.0.0 dev
+> vite --host 0.0.0.0 --port 5173
+
+
+  VITE v8.0.0  ready in 216 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://172.16.216.34:5173/
+[vite:css][postcss] @import must precede all other statements (besides @charset or empty @layer)
+70 |  
+71 |  /* Импорт шрифтов */
+72 |  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400...
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+73 |  
+74 |  /* Глобальные стили */
